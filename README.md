@@ -1,2 +1,2 @@
-# HDFS-Cluster
-Запустил Hadoop кластер локально в Docker
+# Локальный Hadoop-кластер
+Запустил Hadoop-кластер локально в Docker
